@@ -1,0 +1,5 @@
+The Datasets(Both for training and Testing) that are used to build this model can be found in the below link.
+
+You can go and download thar dataset and use it to train your model.
+
+The dataset is available at - https://www.kaggle.com/datasets/kartik2112/fraud-detection
